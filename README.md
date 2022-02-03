@@ -13,9 +13,25 @@ The pre-concentrator hardware details are described [here](documents/preconcentr
 
 
 
+## 2. The sensing Module
+
+### 2.1 Hardware
+
+The details of the sensing module hardware are described [here](documents/the sensing module.md).
 
 
-## 2. Dataset
+
+
+
+## 3. The processing MOdule
+
+
+
+
+
+
+
+## 4. Dataset
 
 Validation dataset is shared [here](documents/val_dataset.md).
 
