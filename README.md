@@ -17,7 +17,7 @@ The pre-concentrator hardware details are described [here](documents/preconcentr
 
 ### 2.1 Hardware
 
-The details of the sensing module hardware are described [here](documents/the sensing module.md).
+The details of the sensing module hardware are described [here](documents/the_sensing_module.md).
 
 
 
